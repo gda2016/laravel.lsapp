@@ -4,7 +4,7 @@
 ## TODO
 - [x]  1 : [Laravel From Scratch [Part 1] - Series Introduction](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
 - [x]  2 : [Laravel From Scratch [Part 2] - Environment Setup & Laravel Installation](https://www.youtube.com/watch?v=H3uRXvwXz1o&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&index=2)
-- [ ]  3 :
+- [ ]  3 : [Basic Routing & Controllers](https://www.youtube.com/watch?v=sLFNVXY0APk&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&index=3)
 - [ ]  4 :
 - [ ]  5 :
 - [ ]  6 :
