@@ -11,19 +11,23 @@
 |
 */
 
+/*
 Route::get('/', function () {
     return view('welcome');
 });
 
-// Route::get('/hello', function () {
-//     return '<h1>Hello World</h1>';
-// });
-
-Route::get('/about', function(){
-	return view('pages.about');
+Route::get('/hello', function () {
+    return '<h1>Hello World</h1>';
 });
 
 // Dynamic route 
 Route::get('/users/{id}/{name}', function($id, $name){
 	return 'This is user ' .$name .' with an id ' .$id;
+});
+*/
+
+Route::get('/', 'PagesController@index');
+
+Route::get('/about', function(){
+	return view('pages.about');
 });

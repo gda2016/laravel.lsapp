@@ -16,6 +16,12 @@
 - [ ] 12 : 
 - [ ] 13 :
 
+## Step : 3
+### [Basic Routing & Controllers](https://www.youtube.com/watch?v=sLFNVXY0APk&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&index=3)
+#### 6 : Create Controller
+`$ php artisan make:controller PagesController`
+
+
 ## Example of Artisan Commands
      $ php artisan list
      $ php artisan help migrate
