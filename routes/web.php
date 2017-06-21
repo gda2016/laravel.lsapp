@@ -22,3 +22,8 @@ Route::get('/', function () {
 Route::get('/about', function(){
 	return view('pages.about');
 });
+
+// Dynamic route 
+Route::get('/users/{id}', function($id){
+	return 'This is user ' .$id;
+});
