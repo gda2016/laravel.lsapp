@@ -5,7 +5,7 @@
 - [x]  1 : [Laravel From Scratch [Part 1] - Series Introduction](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
 - [x]  2 : [Laravel From Scratch [Part 2] - Environment Setup & Laravel Installation](https://www.youtube.com/watch?v=H3uRXvwXz1o&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&index=2)
 - [x]  3 : [Basic Routing & Controllers](https://www.youtube.com/watch?v=sLFNVXY0APk&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&index=3)
-- [ ]  4 :
+- [x]  4 : [Blade Templating & Compiling Assets](https://www.youtube.com/watch?v=bSG2YMqJJys&index=4&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
 - [ ]  5 :
 - [ ]  6 :
 - [ ]  7 :
