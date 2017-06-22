@@ -1,5 +1,7 @@
 # Laravel From Scratch
 #### [Source :](https://www.youtube.com/watch?v=H3uRXvwXz1o)
+#### [MeisterTask]()
+#### [GitHub]()
 #### [CODE: Complete Code For This Series](https://github.com/bradtraversy/lsapp)
 ## TODO
 - [x]  1 : [Laravel From Scratch [Part 1] - Series Introduction](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
@@ -21,7 +23,36 @@
 #### 6 : Create Controller
 `$ php artisan make:controller PagesController`
 
+## Step : 4
+### [Blade Templating & Compiling Assets](https://www.youtube.com/watch?v=bSG2YMqJJys&index=4&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
+#### 5 : NPM instal pakage depenedsies
+`$ npm install`
+##### Troubleshooting
+```
+$ npm uninstall uuid --self
+$ npm install uuid --self
+```
+##### Using
+```
+npm run dev
+$ npm watch dev
+```
 
+
+~~ Postscript ~~
+## Postscript
+### Git
+`$ git -b step_4 https://github.com/gda2016/laravel.lsapp.git lr`
+
+### Composer
+`$ compiser install`
+#### [Trubleshooting](https://stackoverflow.com/questions/28893710/whoops-looks-like-something-went-wrong-laravel-5-0#28893877)
+1. Give write permission to storage and bootstrap/cache directories
+1. Rename .env.example file to .env
+1. If you get "RuntimeException... No supported encrypter found. The cipher and / or key length are invalid." error, stop the application and generate key from command line
+`$ php artisan key:generate`
+
+~~ Previous ~~
 ## Example of Artisan Commands
      $ php artisan list
      $ php artisan help migrate
