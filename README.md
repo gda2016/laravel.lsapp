@@ -40,6 +40,7 @@ $ npm run watch
 ```
 
 ##### 6 : Add Custom CSS
+##### 7 : Create a navbar
 
 
 

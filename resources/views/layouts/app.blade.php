@@ -10,6 +10,9 @@
         <title>{{ config('app.name', 'LSAPP') }}</title>
     </head>
     <body>
+        <div class="row">
+            @include('inc.navbar')
+        </div>
         <div class="container">
             @yield('content')
         </div>
