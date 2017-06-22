@@ -25,6 +25,7 @@
 
 ## Step : 4
 ### [Blade Templating & Compiling Assets](https://www.youtube.com/watch?v=bSG2YMqJJys&index=4&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
+
 #### 5 : NPM instal pakage depenedsies
 `$ npm install`
 ##### Troubleshooting
@@ -34,12 +35,14 @@ $ npm install uuid --self
 ```
 ##### Using
 ```
-npm run dev
-$ npm watch dev
+$ npm run dev
+$ npm run watch
 ```
 
+##### 6 : Add Custom CSS
 
-~~ Postscript ~~
+
+
 ## Postscript
 ### Git
 `$ git -b step_4 https://github.com/gda2016/laravel.lsapp.git lr`
@@ -52,7 +55,7 @@ $ npm watch dev
 1. If you get "RuntimeException... No supported encrypter found. The cipher and / or key length are invalid." error, stop the application and generate key from command line
 `$ php artisan key:generate`
 
-~~ Previous ~~
+# Previous
 ## Example of Artisan Commands
      $ php artisan list
      $ php artisan help migrate
